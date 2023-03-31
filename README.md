@@ -1,4 +1,8 @@
-# spring-xml-configuration
-# spring-xml-configuration
+# Spring core: Configuration with only XML File
 
-qqqqqqqqqqqqqqqqqqqqqqqqqqqq
+## Description
+Experiment with concepts of inversion of control and dependency injection by the XML file. In this project, we can see how:
+* Classes will be marked as beans
+* Activate component scan
+* Inject constants or objects into specific variables  
+* Retrieve data from the properties file
